@@ -6,6 +6,7 @@ build
 src/config/FirebaseConfig.js
 npm-debug.log
 yarn-error.log
+yarn.lock
 rethinkdb_data
 debug
 now-secrets.json
